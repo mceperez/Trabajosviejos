@@ -1,0 +1,10 @@
+console.log("Batir 2 huevos");
+console.log("incorporar 100g de azucar");
+console.log("cuando espume");
+console.log("agregar 1 taza de aceite");
+console.log("encender el horno ");
+console.log("tamizar 2 tazas de harina leudante");
+console.log("incorporarla al batido");
+console.log("integrar todo con espatula");
+console.log("enmantecar y henarinar un molde");
+console.log("verter la preparacion y llevarla al horno durante cuarenta min.");

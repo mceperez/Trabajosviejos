@@ -1,0 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var readlineSync = require("readline-sync");
+var alturaPersona = readlineSync.questionInt("Ingrese su altura");
+console.log("Ingrese su altura:  " + alturaPersona);
